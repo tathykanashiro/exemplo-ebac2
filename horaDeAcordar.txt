@@ -1,0 +1,23 @@
+INICIO
+   1. Abrir os olhos;
+   2. Espreguiçar-se;
+   3. Olhar as horas no celular;
+   4. Sentar na cama;
+   5. Colocar o chinelo;
+   6. Levantar da cama;
+   7. Andar até a porta;
+   8. Se a porta estiver destrancada;
+	1. Colocar a mão na maçaneta;
+        2. Girar a maçaneta;
+        3. Puxar a porta;
+   9. Se a porta estiver trancada;
+        1. Colocar a mão na chave;
+        2. Girar a chave;
+        3. Colocar a mão na maçaneta;
+	4. Girar a maçaneta;
+        5. Puxar a porta
+   10. Sair do quarto;
+   11. Andar até o banheiro;
+FIM
+   
+   
